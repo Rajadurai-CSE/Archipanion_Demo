@@ -1,0 +1,21 @@
+.Section-1{
+  margin-top: 80px;
+}
+.chat_ip{
+  width: calc(50%);
+  height: 50px;
+  font-size: 15px;
+  padding-left: 10px;
+}
+
+.submit{
+  height: 56px;
+  margin-left: -5px;
+  width: 90px;
+  cursor: pointer;
+}
+
+.user_input{
+  display: flex;
+  gap: 4px;
+}
